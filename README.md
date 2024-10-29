@@ -85,7 +85,17 @@ this inventory control system are products, sales, purchases, stores, managed. I
 | userID | Ref. Object → User |
 | TotalSaleAmount | Number |
 
-### d) Purchase
+### d) Product
+
+| **Field Name** | **Type** |
+| --- | --- |
+| name | String |
+| manufacturer | String |
+| stock | String |
+| description | String |
+| userID | Ref. Object → User |
+
+### e) Purchase
 
 | **Field Name** | **Type** |
 | --- | --- |
@@ -95,15 +105,7 @@ this inventory control system are products, sales, purchases, stores, managed. I
 | TotalPurchaseAmount | Number |
 | userID | Ref. Object → User |
 
-### e) Product
 
-| **Field Name** | **Type** |
-| --- | --- |
-| name | String |
-| manufacturer | String |
-| stock | String |
-| description | String |
-| userID | Ref. Object → User |
 
 <h2 align="left">Use Cases:</h2>
 
