@@ -1,10 +1,10 @@
 # IMS
 Inventory Management System
-# **Introduction:**
+<h2 align="left"> Introduction:</h2>
 
 this inventory control system are products, sales, purchases, stores, managed. It is meant to help businesses maximize their inventory and sales systems, so enabling efficient tracking of stock levels, sales data, and purchasing activities.
 
-## Key Features:
+<h2 align="left">Key Features :</h2>
 
 1. **User Management**
     - **User Registration**: Record and control user data including safe login passwords and contacts.
@@ -46,9 +46,9 @@ this inventory control system are products, sales, purchases, stores, managed. I
 - validator
 - multer
 
-## 1. **Database Structure**
+<h2 align="left">Database Structure</h2>
 
-### **Tables**:
+<h3 align="left">Tables:</h3>
 
 ---
 
@@ -105,7 +105,7 @@ this inventory control system are products, sales, purchases, stores, managed. I
 | description | String |
 | userID | Ref. Object → User |
 
-## Use Cases:
+<h2 align="left">Use Cases:</h2>
 
 1. **User Management**
     - **Register/Authenticate Users**: Users should be let to safely log in and register.
@@ -123,11 +123,11 @@ this inventory control system are products, sales, purchases, stores, managed. I
     - **Log Purchases**: Track purchase records in  Purchase Management including total money, date, and quantity.
     - **Access Purchase Records**: View purchase records by user or item.
 
-# **Development with ZenDevx:**
+<h2 align="left">Development with ZenDevx:</h2>
 
 <a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7dd7220f-e83c-4490-9ac2-beab3bcf8c35" alt="ZenDevX" height="auto" width="auto" /></a>
 
-# **🐦 Connect With Me:**   
+<h2 align="left">🐦 Connect With Me:</h2>   
 
 <a href="https://www.linkedin.com/company/zendevx/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9a6080ca-4265-43e5-8652-9454651970a9" alt="ZenDevX" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1beefdd6-fa17-49c9-bde7-e8f30f539b96" alt="ZenDevX" height="50" width="50" /></a>
