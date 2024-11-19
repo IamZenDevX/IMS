@@ -1,5 +1,5 @@
-# IMS
-Inventory Management System
+# Inventory Management System
+
 <h2 align="left"> Introduction:</h2>
 
 this inventory control system are products, sales, purchases, stores, managed. It is meant to help businesses maximize their inventory and sales systems, so enabling efficient tracking of stock levels, sales data, and purchasing activities.
